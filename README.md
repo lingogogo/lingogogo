@@ -29,9 +29,9 @@
 #### Project
 
 - Project competition at the University - Gripping robot with a carriage car
-- Simulation of warehouse AGV path
+- Simulation of warehouse AGV path (private)
 - Ｎational Science and Technology Council 大專生研究計畫 - 全自動清掃機器人
-- 遊戲腳本 - Beat_Team_Rocket(Pokemon Go) 
+- 遊戲腳本 - Beat_Team_Rocket(Pokemon Go) (private)
 
 #### Research (In progress)
 
