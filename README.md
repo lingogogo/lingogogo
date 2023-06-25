@@ -17,7 +17,7 @@
 - Numerical method: My research of the controller gain about the BMI system.
 - Mechanical analysis: Using SolidWorks and Adam to analyze the system.
 - Linux: Getting the knowledge from the side project in university and course.
-- Kalman filter methods for predicting the target position.
+- Kalman filter methods for predicting the target position
 
 #### Programming Language
 
@@ -29,9 +29,9 @@
 #### Project
 
 - Project competition at the University - Gripping robot with a carriage car
-- (private) Simulation of warehouse AGV path 
+- (private) Simulation of warehouse AGV path efficiency
 - Ｎational Science and Technology Council 大專生研究計畫 - 全自動清掃機器人
-- (private) 遊戲腳本 - Beat_Team_Rocket(Pokemon Go) 
+- (private) 遊戲腳本 - Beat_Team_Rocket (Pokemon Go)
 
 #### Research (In progress)
 
