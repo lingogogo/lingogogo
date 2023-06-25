@@ -16,7 +16,7 @@
 - Reinforcement Learning: Our laboratory course to apply in the control system.
 - Numerical method: My research of the controller gain about the BMI system.
 - Mechanical analysis: Using SolidWorks and Adam to analyze the system.
-- Linux: Getting the knowledge from the side project in university and course.
+- Linux: Getting the knowledge from the side project in the university and Operating system course.
 - Kalman filter methods for predicting the target position
 
 #### Programming Language
