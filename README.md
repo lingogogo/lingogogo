@@ -17,6 +17,7 @@
 - Numerical method: My research of the controller gain about the BMI system.
 - Mechanical analysis: Using SolidWorks and Adam to analyze the system.
 - Linux: Getting the knowledge from the side project in university and course.
+- Kalman filter methods
 
 #### Programming Language
 
@@ -30,6 +31,11 @@
 - Project competition at the University - Gripping robot with a carriage car
 - Simulation of warehouse AGV path
 - Ｎational Science and Technology Council 大專生研究計畫 - 全自動清掃機器人
+- 遊戲腳本 - Beat_Team_Rocket(Pokemon Go) 
+
+#### Research (In progress)
+
+- Optimization for controller gain in bilinear matrix inequality problem.
 
 
 
