@@ -30,7 +30,7 @@
 
 #### Project
 
-- Project competition at the University - Gripping robot with a carriage car
+- Project competition at the University - Gripping robot with a carriage car (https://youtu.be/MAg2Bi487B0)
 - (private) Simulation of warehouse AGV path efficiency (Laboratory project)
 - Ｎational Science and Technology Council 大專生研究計畫 - 全自動清掃機器人
 - (private) 遊戲腳本 - Beat_Team_Rocket (Pokemon Go)
