@@ -1,7 +1,9 @@
 ### Hi, I am Gordon Lin 👋
 - 👨‍🎓 Studying for a master's degree in Electrical Engineering.
 - Graduate from National Cheng Keng University in Mechanical Engineering.
+- 📘 Learned electronics and circuits in EE.
 - 🌱 I’m currently learning Particle swarm optimization and covariance matrix adaptive evolutionary strategy.
+- Try to improve programming skills in LeetCode.
 
 
 #### Connection
