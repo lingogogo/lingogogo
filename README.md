@@ -34,6 +34,7 @@
 - (private) Simulation of warehouse AGV path efficiency
 - Ｎational Science and Technology Council 大專生研究計畫 - 全自動清掃機器人
 - (private) 遊戲腳本 - Beat_Team_Rocket (Pokemon Go)
+- Data Fusion (Early Study)
 
 #### Research (In progress)
 
