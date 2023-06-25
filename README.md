@@ -31,7 +31,7 @@
 #### Project
 
 - Project competition at the University - Gripping robot with a carriage car
-- (private) Simulation of warehouse AGV path efficiency
+- (private) Simulation of warehouse AGV path efficiency (Laboratory project)
 - Ｎational Science and Technology Council 大專生研究計畫 - 全自動清掃機器人
 - (private) 遊戲腳本 - Beat_Team_Rocket (Pokemon Go)
 - Data Fusion (Early Study) (https://github.com/lingogogo/Data-fusion)
