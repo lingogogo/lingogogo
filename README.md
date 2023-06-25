@@ -36,6 +36,7 @@
 - (private) 遊戲腳本 - Beat_Team_Rocket (Pokemon Go) (The second attributor)
 - Data Fusion (Early Study) (https://github.com/lingogogo/Data-fusion)
 - Chat Software (Easy Version)
+
 #### Research (In progress)
 
 - Optimization for controller gain in bilinear matrix inequality problems.
