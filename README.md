@@ -1,14 +1,8 @@
 ### Hi, I am Gordon 林 👋
-
-<!--
-**lingogogo/lingogogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👨‍🎓 Studying for a master's degree in Electrical Engineering.
 - Graduate from National Cheng Keng University in Mechanical Engineering.
 - 🌱 I’m currently learning Particle swarm optimization and covariance matrix adaptive evolutionary strategy.
 
-
--->
 
 #### Connection
 
