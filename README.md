@@ -35,7 +35,7 @@
 
 #### Research (In progress)
 
-- Optimization for controller gain in bilinear matrix inequality problem.
+- Optimization for controller gain in bilinear matrix inequality problems.
 
 
 
