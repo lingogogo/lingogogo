@@ -12,7 +12,7 @@
 #### Knowledge Region
 
 - Microcomputer: Jetson nano
-- Machine learning: computer vision with CNN, and the basic operation concept with other machine learning methods.
+- Machine learning: computer vision with CNN, yolov3, and the basic operation concept with other machine learning methods.
 - Reinforcement Learning: Our laboratory course to apply in the control system.
 - Numerical method: My research of the controller gain about the BMI system.
 - Mechanical analysis: Using SolidWorks and Adam to analyze the system.
