@@ -28,6 +28,14 @@
 - C
 - Matlab
 
+#### Tools
+- SolidWorks
+- Adams
+- Jupyter
+- Spyder
+- Colab
+- Visual Studio
+
 #### Project
 
 - Project competition at the University - Gripping robot with a carriage car (Video: https://youtu.be/MAg2Bi487B0)
