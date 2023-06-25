@@ -1,4 +1,4 @@
-### Hi, I am Gordon 林 👋
+### Hi, I am Gordon Lin 👋
 - 👨‍🎓 Studying for a master's degree in Electrical Engineering.
 - Graduate from National Cheng Keng University in Mechanical Engineering.
 - 🌱 I’m currently learning Particle swarm optimization and covariance matrix adaptive evolutionary strategy.
@@ -24,6 +24,12 @@
 - C++
 - C
 - Matlab
+
+#### Project
+
+- Project competition at the University - Gripping robot with a carriage car
+- Simulation of warehouse AGV path
+- Ｎational Science and Technology Council 大專生研究計畫 - 全自動清掃機器人
 
 
 
