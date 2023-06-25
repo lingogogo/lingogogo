@@ -17,7 +17,7 @@
 - Numerical method: My research of the controller gain about the BMI system.
 - Mechanical analysis: Using SolidWorks and Adam to analyze the system.
 - Linux: Getting the knowledge from the side project in university and course.
-- Kalman filter methods
+- Kalman filter methods for predicting the target position.
 
 #### Programming Language
 
