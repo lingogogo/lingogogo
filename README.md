@@ -10,6 +10,7 @@
 
 - Email: chicco881204@gmail.com
 - GitHub: https://github.com/lingogogo
+- LeetCode: https://leetcode.com/noobengineer/
 
 #### Knowledge Region
 
