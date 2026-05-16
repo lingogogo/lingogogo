@@ -45,7 +45,7 @@
 - Chat Software (Easy Version)
 
 #### Journal
-- Memetic covariance matrix adaptation evolution strategy for bilinear matrix inequality problems in control system design (Journal, [Link](https://www.sciencedirect.com/science/article/pii/S1568494625018599))
+- Memetic covariance matrix adaptation evolution strategy for bilinear matrix inequality problems in control system design ([Link](https://www.sciencedirect.com/science/article/pii/S1568494625018599))
 
 #### LeetCode Status
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CianSyue?theme=white&extension=activity)
