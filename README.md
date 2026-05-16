@@ -38,15 +38,16 @@
 - Visual Studio
 
 #### Project
-- Memetic covariance matrix adaptation evolution strategy for bilinear matrix inequality problems in control system design (Journal, [Link](https://www.sciencedirect.com/science/article/pii/S1568494625018599))
 - Project competition at the University - Gripping robot with a carriage car (Video: [Link](https://youtu.be/MAg2Bi487B0))
 - (private) Simulation of warehouse AGV path efficiency (Laboratory project)
 - Ｎational Science and Technology Council 大專生研究計畫 - 全自動清掃機器人
 - Data Fusion (Early Study) ([Link](https://github.com/lingogogo/Data-fusion))
 - Chat Software (Easy Version)
 
+#### Journal
+- Memetic covariance matrix adaptation evolution strategy for bilinear matrix inequality problems in control system design (Journal, [Link](https://www.sciencedirect.com/science/article/pii/S1568494625018599))
+
 #### LeetCode Status
 ![LeetCode Stats](https://leetcard.jacoblin.cool/CianSyue?theme=white&extension=activity)
-
 
 
