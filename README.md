@@ -1,4 +1,4 @@
-### Hi, I am Gordon Lin 👋
+### Hi, I am Cian👋
 - 👨‍🎓 Studying for a master's degree in Electrical Engineering.
 - Graduate from National Cheng Keng University in Mechanical Engineering.
 - 📘 Learned electronics and circuits in EE.
